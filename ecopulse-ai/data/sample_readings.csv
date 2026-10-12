@@ -1,0 +1,541 @@
+building,building_type,resource_type,value,unit,timestamp
+Central Library,library,electricity,319.4,kWh,2026-09-12T00:00:00
+Central Library,library,electricity,300.0,kWh,2026-09-13T00:00:00
+Central Library,library,electricity,410.6,kWh,2026-09-14T00:00:00
+Central Library,library,electricity,408.4,kWh,2026-09-15T00:00:00
+Central Library,library,electricity,429.9,kWh,2026-09-16T00:00:00
+Central Library,library,electricity,427.4,kWh,2026-09-17T00:00:00
+Central Library,library,electricity,436.5,kWh,2026-09-18T00:00:00
+Central Library,library,electricity,302.0,kWh,2026-09-19T00:00:00
+Central Library,library,electricity,312.5,kWh,2026-09-20T00:00:00
+Central Library,library,electricity,400.3,kWh,2026-09-21T00:00:00
+Central Library,library,electricity,408.2,kWh,2026-09-22T00:00:00
+Central Library,library,electricity,420.2,kWh,2026-09-23T00:00:00
+Central Library,library,electricity,400.1,kWh,2026-09-24T00:00:00
+Central Library,library,electricity,407.4,kWh,2026-09-25T00:00:00
+Central Library,library,electricity,319.7,kWh,2026-09-26T00:00:00
+Central Library,library,electricity,316.4,kWh,2026-09-27T00:00:00
+Central Library,library,electricity,408.3,kWh,2026-09-28T00:00:00
+Central Library,library,electricity,423.7,kWh,2026-09-29T00:00:00
+Central Library,library,electricity,433.0,kWh,2026-09-30T00:00:00
+Central Library,library,electricity,399.3,kWh,2026-10-01T00:00:00
+Central Library,library,electricity,432.8,kWh,2026-10-02T00:00:00
+Central Library,library,electricity,321.2,kWh,2026-10-03T00:00:00
+Central Library,library,electricity,310.0,kWh,2026-10-04T00:00:00
+Central Library,library,electricity,405.5,kWh,2026-10-05T00:00:00
+Central Library,library,electricity,439.2,kWh,2026-10-06T00:00:00
+Central Library,library,electricity,413.1,kWh,2026-10-07T00:00:00
+Central Library,library,electricity,402.9,kWh,2026-10-08T00:00:00
+Central Library,library,electricity,403.1,kWh,2026-10-09T00:00:00
+Central Library,library,electricity,325.9,kWh,2026-10-10T00:00:00
+Central Library,library,electricity,560.2,kWh,2026-10-11T00:00:00
+Central Library,library,water,1932.6,litres,2026-09-12T00:00:00
+Central Library,library,water,1918.1,litres,2026-09-13T00:00:00
+Central Library,library,water,2509.1,litres,2026-09-14T00:00:00
+Central Library,library,water,2618.3,litres,2026-09-15T00:00:00
+Central Library,library,water,2469.6,litres,2026-09-16T00:00:00
+Central Library,library,water,2513.0,litres,2026-09-17T00:00:00
+Central Library,library,water,2582.4,litres,2026-09-18T00:00:00
+Central Library,library,water,1897.2,litres,2026-09-19T00:00:00
+Central Library,library,water,1942.8,litres,2026-09-20T00:00:00
+Central Library,library,water,2519.3,litres,2026-09-21T00:00:00
+Central Library,library,water,2551.1,litres,2026-09-22T00:00:00
+Central Library,library,water,2386.5,litres,2026-09-23T00:00:00
+Central Library,library,water,2432.0,litres,2026-09-24T00:00:00
+Central Library,library,water,2447.3,litres,2026-09-25T00:00:00
+Central Library,library,water,1796.2,litres,2026-09-26T00:00:00
+Central Library,library,water,1824.9,litres,2026-09-27T00:00:00
+Central Library,library,water,2400.3,litres,2026-09-28T00:00:00
+Central Library,library,water,2444.5,litres,2026-09-29T00:00:00
+Central Library,library,water,2533.9,litres,2026-09-30T00:00:00
+Central Library,library,water,2466.2,litres,2026-10-01T00:00:00
+Central Library,library,water,2467.5,litres,2026-10-02T00:00:00
+Central Library,library,water,1820.5,litres,2026-10-03T00:00:00
+Central Library,library,water,1831.3,litres,2026-10-04T00:00:00
+Central Library,library,water,2609.2,litres,2026-10-05T00:00:00
+Central Library,library,water,2537.0,litres,2026-10-06T00:00:00
+Central Library,library,water,2527.3,litres,2026-10-07T00:00:00
+Central Library,library,water,2417.8,litres,2026-10-08T00:00:00
+Central Library,library,water,2557.3,litres,2026-10-09T00:00:00
+Central Library,library,water,1811.9,litres,2026-10-10T00:00:00
+Central Library,library,water,1852.4,litres,2026-10-11T00:00:00
+Central Library,library,waste,27.5,kg,2026-09-12T00:00:00
+Central Library,library,waste,26.6,kg,2026-09-13T00:00:00
+Central Library,library,waste,35.2,kg,2026-09-14T00:00:00
+Central Library,library,waste,35.6,kg,2026-09-15T00:00:00
+Central Library,library,waste,36.2,kg,2026-09-16T00:00:00
+Central Library,library,waste,36.0,kg,2026-09-17T00:00:00
+Central Library,library,waste,34.1,kg,2026-09-18T00:00:00
+Central Library,library,waste,25.0,kg,2026-09-19T00:00:00
+Central Library,library,waste,25.8,kg,2026-09-20T00:00:00
+Central Library,library,waste,34.2,kg,2026-09-21T00:00:00
+Central Library,library,waste,34.0,kg,2026-09-22T00:00:00
+Central Library,library,waste,36.6,kg,2026-09-23T00:00:00
+Central Library,library,waste,36.3,kg,2026-09-24T00:00:00
+Central Library,library,waste,34.4,kg,2026-09-25T00:00:00
+Central Library,library,waste,26.7,kg,2026-09-26T00:00:00
+Central Library,library,waste,26.0,kg,2026-09-27T00:00:00
+Central Library,library,waste,36.5,kg,2026-09-28T00:00:00
+Central Library,library,waste,34.9,kg,2026-09-29T00:00:00
+Central Library,library,waste,34.2,kg,2026-09-30T00:00:00
+Central Library,library,waste,34.1,kg,2026-10-01T00:00:00
+Central Library,library,waste,35.2,kg,2026-10-02T00:00:00
+Central Library,library,waste,25.6,kg,2026-10-03T00:00:00
+Central Library,library,waste,26.5,kg,2026-10-04T00:00:00
+Central Library,library,waste,36.4,kg,2026-10-05T00:00:00
+Central Library,library,waste,34.6,kg,2026-10-06T00:00:00
+Central Library,library,waste,34.0,kg,2026-10-07T00:00:00
+Central Library,library,waste,36.7,kg,2026-10-08T00:00:00
+Central Library,library,waste,35.0,kg,2026-10-09T00:00:00
+Central Library,library,waste,25.2,kg,2026-10-10T00:00:00
+Central Library,library,waste,25.1,kg,2026-10-11T00:00:00
+Science Block,academic,electricity,524.7,kWh,2026-09-12T00:00:00
+Science Block,academic,electricity,553.0,kWh,2026-09-13T00:00:00
+Science Block,academic,electricity,802.8,kWh,2026-09-14T00:00:00
+Science Block,academic,electricity,773.9,kWh,2026-09-15T00:00:00
+Science Block,academic,electricity,746.0,kWh,2026-09-16T00:00:00
+Science Block,academic,electricity,770.8,kWh,2026-09-17T00:00:00
+Science Block,academic,electricity,818.7,kWh,2026-09-18T00:00:00
+Science Block,academic,electricity,547.6,kWh,2026-09-19T00:00:00
+Science Block,academic,electricity,571.7,kWh,2026-09-20T00:00:00
+Science Block,academic,electricity,808.1,kWh,2026-09-21T00:00:00
+Science Block,academic,electricity,741.9,kWh,2026-09-22T00:00:00
+Science Block,academic,electricity,797.2,kWh,2026-09-23T00:00:00
+Science Block,academic,electricity,794.2,kWh,2026-09-24T00:00:00
+Science Block,academic,electricity,782.9,kWh,2026-09-25T00:00:00
+Science Block,academic,electricity,533.3,kWh,2026-09-26T00:00:00
+Science Block,academic,electricity,553.7,kWh,2026-09-27T00:00:00
+Science Block,academic,electricity,749.7,kWh,2026-09-28T00:00:00
+Science Block,academic,electricity,774.9,kWh,2026-09-29T00:00:00
+Science Block,academic,electricity,776.4,kWh,2026-09-30T00:00:00
+Science Block,academic,electricity,815.4,kWh,2026-10-01T00:00:00
+Science Block,academic,electricity,809.3,kWh,2026-10-02T00:00:00
+Science Block,academic,electricity,533.1,kWh,2026-10-03T00:00:00
+Science Block,academic,electricity,546.0,kWh,2026-10-04T00:00:00
+Science Block,academic,electricity,754.9,kWh,2026-10-05T00:00:00
+Science Block,academic,electricity,812.2,kWh,2026-10-06T00:00:00
+Science Block,academic,electricity,808.9,kWh,2026-10-07T00:00:00
+Science Block,academic,electricity,764.3,kWh,2026-10-08T00:00:00
+Science Block,academic,electricity,790.8,kWh,2026-10-09T00:00:00
+Science Block,academic,electricity,551.9,kWh,2026-10-10T00:00:00
+Science Block,academic,electricity,1219.7,kWh,2026-10-11T00:00:00
+Science Block,academic,water,3017.2,litres,2026-09-12T00:00:00
+Science Block,academic,water,2951.6,litres,2026-09-13T00:00:00
+Science Block,academic,water,4317.0,litres,2026-09-14T00:00:00
+Science Block,academic,water,4212.7,litres,2026-09-15T00:00:00
+Science Block,academic,water,3990.2,litres,2026-09-16T00:00:00
+Science Block,academic,water,4126.1,litres,2026-09-17T00:00:00
+Science Block,academic,water,3998.2,litres,2026-09-18T00:00:00
+Science Block,academic,water,3066.2,litres,2026-09-19T00:00:00
+Science Block,academic,water,3051.3,litres,2026-09-20T00:00:00
+Science Block,academic,water,4339.3,litres,2026-09-21T00:00:00
+Science Block,academic,water,4119.2,litres,2026-09-22T00:00:00
+Science Block,academic,water,4014.3,litres,2026-09-23T00:00:00
+Science Block,academic,water,4358.8,litres,2026-09-24T00:00:00
+Science Block,academic,water,4387.7,litres,2026-09-25T00:00:00
+Science Block,academic,water,2818.2,litres,2026-09-26T00:00:00
+Science Block,academic,water,2935.9,litres,2026-09-27T00:00:00
+Science Block,academic,water,4019.1,litres,2026-09-28T00:00:00
+Science Block,academic,water,4309.5,litres,2026-09-29T00:00:00
+Science Block,academic,water,4311.7,litres,2026-09-30T00:00:00
+Science Block,academic,water,4043.9,litres,2026-10-01T00:00:00
+Science Block,academic,water,4189.6,litres,2026-10-02T00:00:00
+Science Block,academic,water,2954.6,litres,2026-10-03T00:00:00
+Science Block,academic,water,2870.9,litres,2026-10-04T00:00:00
+Science Block,academic,water,4356.4,litres,2026-10-05T00:00:00
+Science Block,academic,water,4167.7,litres,2026-10-06T00:00:00
+Science Block,academic,water,4079.0,litres,2026-10-07T00:00:00
+Science Block,academic,water,4216.5,litres,2026-10-08T00:00:00
+Science Block,academic,water,4296.6,litres,2026-10-09T00:00:00
+Science Block,academic,water,2852.1,litres,2026-10-10T00:00:00
+Science Block,academic,water,2884.6,litres,2026-10-11T00:00:00
+Science Block,academic,waste,40.4,kg,2026-09-12T00:00:00
+Science Block,academic,waste,39.1,kg,2026-09-13T00:00:00
+Science Block,academic,waste,54.7,kg,2026-09-14T00:00:00
+Science Block,academic,waste,55.1,kg,2026-09-15T00:00:00
+Science Block,academic,waste,52.9,kg,2026-09-16T00:00:00
+Science Block,academic,waste,53.5,kg,2026-09-17T00:00:00
+Science Block,academic,waste,54.1,kg,2026-09-18T00:00:00
+Science Block,academic,waste,38.8,kg,2026-09-19T00:00:00
+Science Block,academic,waste,37.5,kg,2026-09-20T00:00:00
+Science Block,academic,waste,53.5,kg,2026-09-21T00:00:00
+Science Block,academic,waste,52.6,kg,2026-09-22T00:00:00
+Science Block,academic,waste,55.7,kg,2026-09-23T00:00:00
+Science Block,academic,waste,53.5,kg,2026-09-24T00:00:00
+Science Block,academic,waste,57.2,kg,2026-09-25T00:00:00
+Science Block,academic,waste,39.9,kg,2026-09-26T00:00:00
+Science Block,academic,waste,36.8,kg,2026-09-27T00:00:00
+Science Block,academic,waste,53.6,kg,2026-09-28T00:00:00
+Science Block,academic,waste,55.9,kg,2026-09-29T00:00:00
+Science Block,academic,waste,53.4,kg,2026-09-30T00:00:00
+Science Block,academic,waste,53.0,kg,2026-10-01T00:00:00
+Science Block,academic,waste,57.4,kg,2026-10-02T00:00:00
+Science Block,academic,waste,38.8,kg,2026-10-03T00:00:00
+Science Block,academic,waste,38.4,kg,2026-10-04T00:00:00
+Science Block,academic,waste,56.6,kg,2026-10-05T00:00:00
+Science Block,academic,waste,56.7,kg,2026-10-06T00:00:00
+Science Block,academic,waste,53.3,kg,2026-10-07T00:00:00
+Science Block,academic,waste,52.8,kg,2026-10-08T00:00:00
+Science Block,academic,waste,54.6,kg,2026-10-09T00:00:00
+Science Block,academic,waste,38.2,kg,2026-10-10T00:00:00
+Science Block,academic,waste,38.4,kg,2026-10-11T00:00:00
+Hostel A,hostel,electricity,698.1,kWh,2026-09-12T00:00:00
+Hostel A,hostel,electricity,694.3,kWh,2026-09-13T00:00:00
+Hostel A,hostel,electricity,681.5,kWh,2026-09-14T00:00:00
+Hostel A,hostel,electricity,623.9,kWh,2026-09-15T00:00:00
+Hostel A,hostel,electricity,643.7,kWh,2026-09-16T00:00:00
+Hostel A,hostel,electricity,639.6,kWh,2026-09-17T00:00:00
+Hostel A,hostel,electricity,673.5,kWh,2026-09-18T00:00:00
+Hostel A,hostel,electricity,665.3,kWh,2026-09-19T00:00:00
+Hostel A,hostel,electricity,661.4,kWh,2026-09-20T00:00:00
+Hostel A,hostel,electricity,646.7,kWh,2026-09-21T00:00:00
+Hostel A,hostel,electricity,644.9,kWh,2026-09-22T00:00:00
+Hostel A,hostel,electricity,635.6,kWh,2026-09-23T00:00:00
+Hostel A,hostel,electricity,633.7,kWh,2026-09-24T00:00:00
+Hostel A,hostel,electricity,677.5,kWh,2026-09-25T00:00:00
+Hostel A,hostel,electricity,678.6,kWh,2026-09-26T00:00:00
+Hostel A,hostel,electricity,707.2,kWh,2026-09-27T00:00:00
+Hostel A,hostel,electricity,653.3,kWh,2026-09-28T00:00:00
+Hostel A,hostel,electricity,620.8,kWh,2026-09-29T00:00:00
+Hostel A,hostel,electricity,682.5,kWh,2026-09-30T00:00:00
+Hostel A,hostel,electricity,671.8,kWh,2026-10-01T00:00:00
+Hostel A,hostel,electricity,680.5,kWh,2026-10-02T00:00:00
+Hostel A,hostel,electricity,711.6,kWh,2026-10-03T00:00:00
+Hostel A,hostel,electricity,706.3,kWh,2026-10-04T00:00:00
+Hostel A,hostel,electricity,628.3,kWh,2026-10-05T00:00:00
+Hostel A,hostel,electricity,649.1,kWh,2026-10-06T00:00:00
+Hostel A,hostel,electricity,631.4,kWh,2026-10-07T00:00:00
+Hostel A,hostel,electricity,643.6,kWh,2026-10-08T00:00:00
+Hostel A,hostel,electricity,621.3,kWh,2026-10-09T00:00:00
+Hostel A,hostel,electricity,931.1,kWh,2026-10-10T00:00:00
+Hostel A,hostel,electricity,715.6,kWh,2026-10-11T00:00:00
+Hostel A,hostel,water,9228.1,litres,2026-09-12T00:00:00
+Hostel A,hostel,water,9718.4,litres,2026-09-13T00:00:00
+Hostel A,hostel,water,8959.5,litres,2026-09-14T00:00:00
+Hostel A,hostel,water,8930.7,litres,2026-09-15T00:00:00
+Hostel A,hostel,water,9411.6,litres,2026-09-16T00:00:00
+Hostel A,hostel,water,9445.9,litres,2026-09-17T00:00:00
+Hostel A,hostel,water,9050.2,litres,2026-09-18T00:00:00
+Hostel A,hostel,water,9656.4,litres,2026-09-19T00:00:00
+Hostel A,hostel,water,9123.8,litres,2026-09-20T00:00:00
+Hostel A,hostel,water,8817.0,litres,2026-09-21T00:00:00
+Hostel A,hostel,water,9421.8,litres,2026-09-22T00:00:00
+Hostel A,hostel,water,9071.3,litres,2026-09-23T00:00:00
+Hostel A,hostel,water,9038.0,litres,2026-09-24T00:00:00
+Hostel A,hostel,water,9223.2,litres,2026-09-25T00:00:00
+Hostel A,hostel,water,9031.5,litres,2026-09-26T00:00:00
+Hostel A,hostel,water,9529.5,litres,2026-09-27T00:00:00
+Hostel A,hostel,water,9002.6,litres,2026-09-28T00:00:00
+Hostel A,hostel,water,9317.4,litres,2026-09-29T00:00:00
+Hostel A,hostel,water,8691.7,litres,2026-09-30T00:00:00
+Hostel A,hostel,water,9414.7,litres,2026-10-01T00:00:00
+Hostel A,hostel,water,8622.1,litres,2026-10-02T00:00:00
+Hostel A,hostel,water,9153.1,litres,2026-10-03T00:00:00
+Hostel A,hostel,water,9539.8,litres,2026-10-04T00:00:00
+Hostel A,hostel,water,9157.7,litres,2026-10-05T00:00:00
+Hostel A,hostel,water,8761.7,litres,2026-10-06T00:00:00
+Hostel A,hostel,water,8657.9,litres,2026-10-07T00:00:00
+Hostel A,hostel,water,9351.3,litres,2026-10-08T00:00:00
+Hostel A,hostel,water,8771.6,litres,2026-10-09T00:00:00
+Hostel A,hostel,water,9539.3,litres,2026-10-10T00:00:00
+Hostel A,hostel,water,9562.8,litres,2026-10-11T00:00:00
+Hostel A,hostel,waste,83.3,kg,2026-09-12T00:00:00
+Hostel A,hostel,waste,84.7,kg,2026-09-13T00:00:00
+Hostel A,hostel,waste,80.2,kg,2026-09-14T00:00:00
+Hostel A,hostel,waste,83.5,kg,2026-09-15T00:00:00
+Hostel A,hostel,waste,77.6,kg,2026-09-16T00:00:00
+Hostel A,hostel,waste,81.7,kg,2026-09-17T00:00:00
+Hostel A,hostel,waste,77.9,kg,2026-09-18T00:00:00
+Hostel A,hostel,waste,83.1,kg,2026-09-19T00:00:00
+Hostel A,hostel,waste,85.4,kg,2026-09-20T00:00:00
+Hostel A,hostel,waste,78.4,kg,2026-09-21T00:00:00
+Hostel A,hostel,waste,78.5,kg,2026-09-22T00:00:00
+Hostel A,hostel,waste,82.0,kg,2026-09-23T00:00:00
+Hostel A,hostel,waste,76.6,kg,2026-09-24T00:00:00
+Hostel A,hostel,waste,79.7,kg,2026-09-25T00:00:00
+Hostel A,hostel,waste,88.2,kg,2026-09-26T00:00:00
+Hostel A,hostel,waste,88.2,kg,2026-09-27T00:00:00
+Hostel A,hostel,waste,76.6,kg,2026-09-28T00:00:00
+Hostel A,hostel,waste,77.7,kg,2026-09-29T00:00:00
+Hostel A,hostel,waste,78.1,kg,2026-09-30T00:00:00
+Hostel A,hostel,waste,83.5,kg,2026-10-01T00:00:00
+Hostel A,hostel,waste,83.0,kg,2026-10-02T00:00:00
+Hostel A,hostel,waste,87.2,kg,2026-10-03T00:00:00
+Hostel A,hostel,waste,82.9,kg,2026-10-04T00:00:00
+Hostel A,hostel,waste,77.3,kg,2026-10-05T00:00:00
+Hostel A,hostel,waste,82.7,kg,2026-10-06T00:00:00
+Hostel A,hostel,waste,81.6,kg,2026-10-07T00:00:00
+Hostel A,hostel,waste,80.9,kg,2026-10-08T00:00:00
+Hostel A,hostel,waste,83.9,kg,2026-10-09T00:00:00
+Hostel A,hostel,waste,85.3,kg,2026-10-10T00:00:00
+Hostel A,hostel,waste,79.9,kg,2026-10-11T00:00:00
+Hostel B,hostel,electricity,704.1,kWh,2026-09-12T00:00:00
+Hostel B,hostel,electricity,668.8,kWh,2026-09-13T00:00:00
+Hostel B,hostel,electricity,660.6,kWh,2026-09-14T00:00:00
+Hostel B,hostel,electricity,678.5,kWh,2026-09-15T00:00:00
+Hostel B,hostel,electricity,626.2,kWh,2026-09-16T00:00:00
+Hostel B,hostel,electricity,625.0,kWh,2026-09-17T00:00:00
+Hostel B,hostel,electricity,624.5,kWh,2026-09-18T00:00:00
+Hostel B,hostel,electricity,686.1,kWh,2026-09-19T00:00:00
+Hostel B,hostel,electricity,667.0,kWh,2026-09-20T00:00:00
+Hostel B,hostel,electricity,656.8,kWh,2026-09-21T00:00:00
+Hostel B,hostel,electricity,664.1,kWh,2026-09-22T00:00:00
+Hostel B,hostel,electricity,630.7,kWh,2026-09-23T00:00:00
+Hostel B,hostel,electricity,658.7,kWh,2026-09-24T00:00:00
+Hostel B,hostel,electricity,634.7,kWh,2026-09-25T00:00:00
+Hostel B,hostel,electricity,681.7,kWh,2026-09-26T00:00:00
+Hostel B,hostel,electricity,710.2,kWh,2026-09-27T00:00:00
+Hostel B,hostel,electricity,672.5,kWh,2026-09-28T00:00:00
+Hostel B,hostel,electricity,623.5,kWh,2026-09-29T00:00:00
+Hostel B,hostel,electricity,645.0,kWh,2026-09-30T00:00:00
+Hostel B,hostel,electricity,635.5,kWh,2026-10-01T00:00:00
+Hostel B,hostel,electricity,617.7,kWh,2026-10-02T00:00:00
+Hostel B,hostel,electricity,701.0,kWh,2026-10-03T00:00:00
+Hostel B,hostel,electricity,691.9,kWh,2026-10-04T00:00:00
+Hostel B,hostel,electricity,634.5,kWh,2026-10-05T00:00:00
+Hostel B,hostel,electricity,665.7,kWh,2026-10-06T00:00:00
+Hostel B,hostel,electricity,653.4,kWh,2026-10-07T00:00:00
+Hostel B,hostel,electricity,645.3,kWh,2026-10-08T00:00:00
+Hostel B,hostel,electricity,618.1,kWh,2026-10-09T00:00:00
+Hostel B,hostel,electricity,653.5,kWh,2026-10-10T00:00:00
+Hostel B,hostel,electricity,708.6,kWh,2026-10-11T00:00:00
+Hostel B,hostel,water,9831.7,litres,2026-09-12T00:00:00
+Hostel B,hostel,water,9493.1,litres,2026-09-13T00:00:00
+Hostel B,hostel,water,9301.1,litres,2026-09-14T00:00:00
+Hostel B,hostel,water,9074.3,litres,2026-09-15T00:00:00
+Hostel B,hostel,water,8683.3,litres,2026-09-16T00:00:00
+Hostel B,hostel,water,8664.7,litres,2026-09-17T00:00:00
+Hostel B,hostel,water,8827.4,litres,2026-09-18T00:00:00
+Hostel B,hostel,water,9827.0,litres,2026-09-19T00:00:00
+Hostel B,hostel,water,9729.8,litres,2026-09-20T00:00:00
+Hostel B,hostel,water,9324.6,litres,2026-09-21T00:00:00
+Hostel B,hostel,water,9359.0,litres,2026-09-22T00:00:00
+Hostel B,hostel,water,8739.1,litres,2026-09-23T00:00:00
+Hostel B,hostel,water,8774.6,litres,2026-09-24T00:00:00
+Hostel B,hostel,water,8642.5,litres,2026-09-25T00:00:00
+Hostel B,hostel,water,9714.7,litres,2026-09-26T00:00:00
+Hostel B,hostel,water,9813.0,litres,2026-09-27T00:00:00
+Hostel B,hostel,water,8915.7,litres,2026-09-28T00:00:00
+Hostel B,hostel,water,9108.6,litres,2026-09-29T00:00:00
+Hostel B,hostel,water,8689.1,litres,2026-09-30T00:00:00
+Hostel B,hostel,water,9386.9,litres,2026-10-01T00:00:00
+Hostel B,hostel,water,9328.1,litres,2026-10-02T00:00:00
+Hostel B,hostel,water,9900.0,litres,2026-10-03T00:00:00
+Hostel B,hostel,water,9743.7,litres,2026-10-04T00:00:00
+Hostel B,hostel,water,9343.3,litres,2026-10-05T00:00:00
+Hostel B,hostel,water,8572.3,litres,2026-10-06T00:00:00
+Hostel B,hostel,water,9212.9,litres,2026-10-07T00:00:00
+Hostel B,hostel,water,8849.0,litres,2026-10-08T00:00:00
+Hostel B,hostel,water,9387.7,litres,2026-10-09T00:00:00
+Hostel B,hostel,water,9735.6,litres,2026-10-10T00:00:00
+Hostel B,hostel,water,12872.2,litres,2026-10-11T00:00:00
+Hostel B,hostel,waste,86.6,kg,2026-09-12T00:00:00
+Hostel B,hostel,waste,82.0,kg,2026-09-13T00:00:00
+Hostel B,hostel,waste,82.3,kg,2026-09-14T00:00:00
+Hostel B,hostel,waste,76.9,kg,2026-09-15T00:00:00
+Hostel B,hostel,waste,83.0,kg,2026-09-16T00:00:00
+Hostel B,hostel,waste,82.9,kg,2026-09-17T00:00:00
+Hostel B,hostel,waste,77.8,kg,2026-09-18T00:00:00
+Hostel B,hostel,waste,86.7,kg,2026-09-19T00:00:00
+Hostel B,hostel,waste,83.7,kg,2026-09-20T00:00:00
+Hostel B,hostel,waste,78.4,kg,2026-09-21T00:00:00
+Hostel B,hostel,waste,82.4,kg,2026-09-22T00:00:00
+Hostel B,hostel,waste,77.8,kg,2026-09-23T00:00:00
+Hostel B,hostel,waste,76.2,kg,2026-09-24T00:00:00
+Hostel B,hostel,waste,77.5,kg,2026-09-25T00:00:00
+Hostel B,hostel,waste,82.6,kg,2026-09-26T00:00:00
+Hostel B,hostel,waste,87.1,kg,2026-09-27T00:00:00
+Hostel B,hostel,waste,83.7,kg,2026-09-28T00:00:00
+Hostel B,hostel,waste,78.2,kg,2026-09-29T00:00:00
+Hostel B,hostel,waste,81.1,kg,2026-09-30T00:00:00
+Hostel B,hostel,waste,79.2,kg,2026-10-01T00:00:00
+Hostel B,hostel,waste,83.8,kg,2026-10-02T00:00:00
+Hostel B,hostel,waste,84.3,kg,2026-10-03T00:00:00
+Hostel B,hostel,waste,87.7,kg,2026-10-04T00:00:00
+Hostel B,hostel,waste,76.9,kg,2026-10-05T00:00:00
+Hostel B,hostel,waste,83.8,kg,2026-10-06T00:00:00
+Hostel B,hostel,waste,77.4,kg,2026-10-07T00:00:00
+Hostel B,hostel,waste,83.7,kg,2026-10-08T00:00:00
+Hostel B,hostel,waste,78.1,kg,2026-10-09T00:00:00
+Hostel B,hostel,waste,80.7,kg,2026-10-10T00:00:00
+Hostel B,hostel,waste,83.5,kg,2026-10-11T00:00:00
+Admin Block,office,electricity,220.9,kWh,2026-09-12T00:00:00
+Admin Block,office,electricity,212.0,kWh,2026-09-13T00:00:00
+Admin Block,office,electricity,363.8,kWh,2026-09-14T00:00:00
+Admin Block,office,electricity,360.4,kWh,2026-09-15T00:00:00
+Admin Block,office,electricity,355.9,kWh,2026-09-16T00:00:00
+Admin Block,office,electricity,362.8,kWh,2026-09-17T00:00:00
+Admin Block,office,electricity,351.2,kWh,2026-09-18T00:00:00
+Admin Block,office,electricity,220.5,kWh,2026-09-19T00:00:00
+Admin Block,office,electricity,205.2,kWh,2026-09-20T00:00:00
+Admin Block,office,electricity,375.3,kWh,2026-09-21T00:00:00
+Admin Block,office,electricity,361.4,kWh,2026-09-22T00:00:00
+Admin Block,office,electricity,367.9,kWh,2026-09-23T00:00:00
+Admin Block,office,electricity,368.7,kWh,2026-09-24T00:00:00
+Admin Block,office,electricity,366.1,kWh,2026-09-25T00:00:00
+Admin Block,office,electricity,213.1,kWh,2026-09-26T00:00:00
+Admin Block,office,electricity,206.7,kWh,2026-09-27T00:00:00
+Admin Block,office,electricity,365.9,kWh,2026-09-28T00:00:00
+Admin Block,office,electricity,353.9,kWh,2026-09-29T00:00:00
+Admin Block,office,electricity,353.3,kWh,2026-09-30T00:00:00
+Admin Block,office,electricity,372.5,kWh,2026-10-01T00:00:00
+Admin Block,office,electricity,367.9,kWh,2026-10-02T00:00:00
+Admin Block,office,electricity,211.7,kWh,2026-10-03T00:00:00
+Admin Block,office,electricity,211.9,kWh,2026-10-04T00:00:00
+Admin Block,office,electricity,356.7,kWh,2026-10-05T00:00:00
+Admin Block,office,electricity,356.5,kWh,2026-10-06T00:00:00
+Admin Block,office,electricity,451.4,kWh,2026-10-07T00:00:00
+Admin Block,office,electricity,346.6,kWh,2026-10-08T00:00:00
+Admin Block,office,electricity,357.1,kWh,2026-10-09T00:00:00
+Admin Block,office,electricity,225.5,kWh,2026-10-10T00:00:00
+Admin Block,office,electricity,219.8,kWh,2026-10-11T00:00:00
+Admin Block,office,water,1123.5,litres,2026-09-12T00:00:00
+Admin Block,office,water,1092.5,litres,2026-09-13T00:00:00
+Admin Block,office,water,1764.2,litres,2026-09-14T00:00:00
+Admin Block,office,water,1808.6,litres,2026-09-15T00:00:00
+Admin Block,office,water,1710.1,litres,2026-09-16T00:00:00
+Admin Block,office,water,1761.6,litres,2026-09-17T00:00:00
+Admin Block,office,water,1787.4,litres,2026-09-18T00:00:00
+Admin Block,office,water,1088.6,litres,2026-09-19T00:00:00
+Admin Block,office,water,1096.7,litres,2026-09-20T00:00:00
+Admin Block,office,water,1793.7,litres,2026-09-21T00:00:00
+Admin Block,office,water,1789.6,litres,2026-09-22T00:00:00
+Admin Block,office,water,1748.5,litres,2026-09-23T00:00:00
+Admin Block,office,water,1795.2,litres,2026-09-24T00:00:00
+Admin Block,office,water,1872.2,litres,2026-09-25T00:00:00
+Admin Block,office,water,1112.0,litres,2026-09-26T00:00:00
+Admin Block,office,water,1044.3,litres,2026-09-27T00:00:00
+Admin Block,office,water,1725.3,litres,2026-09-28T00:00:00
+Admin Block,office,water,1802.8,litres,2026-09-29T00:00:00
+Admin Block,office,water,1823.9,litres,2026-09-30T00:00:00
+Admin Block,office,water,1770.3,litres,2026-10-01T00:00:00
+Admin Block,office,water,1857.3,litres,2026-10-02T00:00:00
+Admin Block,office,water,1107.1,litres,2026-10-03T00:00:00
+Admin Block,office,water,1098.7,litres,2026-10-04T00:00:00
+Admin Block,office,water,1750.4,litres,2026-10-05T00:00:00
+Admin Block,office,water,1745.8,litres,2026-10-06T00:00:00
+Admin Block,office,water,1714.4,litres,2026-10-07T00:00:00
+Admin Block,office,water,1754.1,litres,2026-10-08T00:00:00
+Admin Block,office,water,1795.5,litres,2026-10-09T00:00:00
+Admin Block,office,water,1117.8,litres,2026-10-10T00:00:00
+Admin Block,office,water,1033.9,litres,2026-10-11T00:00:00
+Admin Block,office,waste,14.9,kg,2026-09-12T00:00:00
+Admin Block,office,waste,15.2,kg,2026-09-13T00:00:00
+Admin Block,office,waste,24.2,kg,2026-09-14T00:00:00
+Admin Block,office,waste,25.5,kg,2026-09-15T00:00:00
+Admin Block,office,waste,25.0,kg,2026-09-16T00:00:00
+Admin Block,office,waste,24.4,kg,2026-09-17T00:00:00
+Admin Block,office,waste,25.4,kg,2026-09-18T00:00:00
+Admin Block,office,waste,14.3,kg,2026-09-19T00:00:00
+Admin Block,office,waste,15.4,kg,2026-09-20T00:00:00
+Admin Block,office,waste,25.7,kg,2026-09-21T00:00:00
+Admin Block,office,waste,24.0,kg,2026-09-22T00:00:00
+Admin Block,office,waste,24.8,kg,2026-09-23T00:00:00
+Admin Block,office,waste,24.2,kg,2026-09-24T00:00:00
+Admin Block,office,waste,26.1,kg,2026-09-25T00:00:00
+Admin Block,office,waste,15.0,kg,2026-09-26T00:00:00
+Admin Block,office,waste,14.3,kg,2026-09-27T00:00:00
+Admin Block,office,waste,24.4,kg,2026-09-28T00:00:00
+Admin Block,office,waste,25.9,kg,2026-09-29T00:00:00
+Admin Block,office,waste,24.9,kg,2026-09-30T00:00:00
+Admin Block,office,waste,25.8,kg,2026-10-01T00:00:00
+Admin Block,office,waste,25.4,kg,2026-10-02T00:00:00
+Admin Block,office,waste,15.7,kg,2026-10-03T00:00:00
+Admin Block,office,waste,15.1,kg,2026-10-04T00:00:00
+Admin Block,office,waste,26.1,kg,2026-10-05T00:00:00
+Admin Block,office,waste,26.0,kg,2026-10-06T00:00:00
+Admin Block,office,waste,25.3,kg,2026-10-07T00:00:00
+Admin Block,office,waste,25.5,kg,2026-10-08T00:00:00
+Admin Block,office,waste,25.0,kg,2026-10-09T00:00:00
+Admin Block,office,waste,15.5,kg,2026-10-10T00:00:00
+Admin Block,office,waste,15.1,kg,2026-10-11T00:00:00
+Canteen,canteen,electricity,567.7,kWh,2026-09-12T00:00:00
+Canteen,canteen,electricity,559.3,kWh,2026-09-13T00:00:00
+Canteen,canteen,electricity,518.7,kWh,2026-09-14T00:00:00
+Canteen,canteen,electricity,507.5,kWh,2026-09-15T00:00:00
+Canteen,canteen,electricity,506.9,kWh,2026-09-16T00:00:00
+Canteen,canteen,electricity,527.2,kWh,2026-09-17T00:00:00
+Canteen,canteen,electricity,533.8,kWh,2026-09-18T00:00:00
+Canteen,canteen,electricity,547.2,kWh,2026-09-19T00:00:00
+Canteen,canteen,electricity,552.9,kWh,2026-09-20T00:00:00
+Canteen,canteen,electricity,508.3,kWh,2026-09-21T00:00:00
+Canteen,canteen,electricity,498.0,kWh,2026-09-22T00:00:00
+Canteen,canteen,electricity,508.9,kWh,2026-09-23T00:00:00
+Canteen,canteen,electricity,508.1,kWh,2026-09-24T00:00:00
+Canteen,canteen,electricity,510.6,kWh,2026-09-25T00:00:00
+Canteen,canteen,electricity,548.2,kWh,2026-09-26T00:00:00
+Canteen,canteen,electricity,526.3,kWh,2026-09-27T00:00:00
+Canteen,canteen,electricity,506.0,kWh,2026-09-28T00:00:00
+Canteen,canteen,electricity,530.1,kWh,2026-09-29T00:00:00
+Canteen,canteen,electricity,530.7,kWh,2026-09-30T00:00:00
+Canteen,canteen,electricity,497.3,kWh,2026-10-01T00:00:00
+Canteen,canteen,electricity,515.2,kWh,2026-10-02T00:00:00
+Canteen,canteen,electricity,548.3,kWh,2026-10-03T00:00:00
+Canteen,canteen,electricity,541.4,kWh,2026-10-04T00:00:00
+Canteen,canteen,electricity,504.8,kWh,2026-10-05T00:00:00
+Canteen,canteen,electricity,515.8,kWh,2026-10-06T00:00:00
+Canteen,canteen,electricity,541.1,kWh,2026-10-07T00:00:00
+Canteen,canteen,electricity,524.4,kWh,2026-10-08T00:00:00
+Canteen,canteen,electricity,530.2,kWh,2026-10-09T00:00:00
+Canteen,canteen,electricity,565.5,kWh,2026-10-10T00:00:00
+Canteen,canteen,electricity,560.5,kWh,2026-10-11T00:00:00
+Canteen,canteen,water,7262.1,litres,2026-09-12T00:00:00
+Canteen,canteen,water,6986.8,litres,2026-09-13T00:00:00
+Canteen,canteen,water,6896.2,litres,2026-09-14T00:00:00
+Canteen,canteen,water,7177.4,litres,2026-09-15T00:00:00
+Canteen,canteen,water,7247.4,litres,2026-09-16T00:00:00
+Canteen,canteen,water,7317.4,litres,2026-09-17T00:00:00
+Canteen,canteen,water,6943.3,litres,2026-09-18T00:00:00
+Canteen,canteen,water,7531.9,litres,2026-09-19T00:00:00
+Canteen,canteen,water,7383.9,litres,2026-09-20T00:00:00
+Canteen,canteen,water,7072.3,litres,2026-09-21T00:00:00
+Canteen,canteen,water,6804.4,litres,2026-09-22T00:00:00
+Canteen,canteen,water,6803.6,litres,2026-09-23T00:00:00
+Canteen,canteen,water,6955.1,litres,2026-09-24T00:00:00
+Canteen,canteen,water,6670.3,litres,2026-09-25T00:00:00
+Canteen,canteen,water,7229.6,litres,2026-09-26T00:00:00
+Canteen,canteen,water,7481.7,litres,2026-09-27T00:00:00
+Canteen,canteen,water,6933.0,litres,2026-09-28T00:00:00
+Canteen,canteen,water,6765.5,litres,2026-09-29T00:00:00
+Canteen,canteen,water,6977.2,litres,2026-09-30T00:00:00
+Canteen,canteen,water,6739.3,litres,2026-10-01T00:00:00
+Canteen,canteen,water,7085.6,litres,2026-10-02T00:00:00
+Canteen,canteen,water,7002.3,litres,2026-10-03T00:00:00
+Canteen,canteen,water,7272.1,litres,2026-10-04T00:00:00
+Canteen,canteen,water,7045.1,litres,2026-10-05T00:00:00
+Canteen,canteen,water,6669.0,litres,2026-10-06T00:00:00
+Canteen,canteen,water,7099.9,litres,2026-10-07T00:00:00
+Canteen,canteen,water,6745.0,litres,2026-10-08T00:00:00
+Canteen,canteen,water,11854.4,litres,2026-10-09T00:00:00
+Canteen,canteen,water,7019.5,litres,2026-10-10T00:00:00
+Canteen,canteen,water,7261.1,litres,2026-10-11T00:00:00
+Canteen,canteen,waste,122.4,kg,2026-09-12T00:00:00
+Canteen,canteen,waste,123.8,kg,2026-09-13T00:00:00
+Canteen,canteen,waste,123.1,kg,2026-09-14T00:00:00
+Canteen,canteen,waste,118.5,kg,2026-09-15T00:00:00
+Canteen,canteen,waste,123.0,kg,2026-09-16T00:00:00
+Canteen,canteen,waste,124.0,kg,2026-09-17T00:00:00
+Canteen,canteen,waste,117.0,kg,2026-09-18T00:00:00
+Canteen,canteen,waste,120.7,kg,2026-09-19T00:00:00
+Canteen,canteen,waste,119.9,kg,2026-09-20T00:00:00
+Canteen,canteen,waste,120.5,kg,2026-09-21T00:00:00
+Canteen,canteen,waste,126.0,kg,2026-09-22T00:00:00
+Canteen,canteen,waste,118.2,kg,2026-09-23T00:00:00
+Canteen,canteen,waste,121.8,kg,2026-09-24T00:00:00
+Canteen,canteen,waste,123.4,kg,2026-09-25T00:00:00
+Canteen,canteen,waste,127.9,kg,2026-09-26T00:00:00
+Canteen,canteen,waste,129.2,kg,2026-09-27T00:00:00
+Canteen,canteen,waste,125.4,kg,2026-09-28T00:00:00
+Canteen,canteen,waste,116.4,kg,2026-09-29T00:00:00
+Canteen,canteen,waste,114.2,kg,2026-09-30T00:00:00
+Canteen,canteen,waste,115.8,kg,2026-10-01T00:00:00
+Canteen,canteen,waste,115.5,kg,2026-10-02T00:00:00
+Canteen,canteen,waste,128.1,kg,2026-10-03T00:00:00
+Canteen,canteen,waste,126.8,kg,2026-10-04T00:00:00
+Canteen,canteen,waste,116.6,kg,2026-10-05T00:00:00
+Canteen,canteen,waste,122.4,kg,2026-10-06T00:00:00
+Canteen,canteen,waste,123.2,kg,2026-10-07T00:00:00
+Canteen,canteen,waste,116.0,kg,2026-10-08T00:00:00
+Canteen,canteen,waste,121.3,kg,2026-10-09T00:00:00
+Canteen,canteen,waste,166.0,kg,2026-10-10T00:00:00
+Canteen,canteen,waste,121.1,kg,2026-10-11T00:00:00
